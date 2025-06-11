@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Saikrishna Katari
+#  Hi, I'm Saikrishna Katari
 
-**BI Developer | Data Analyst | ETL Engineer**
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white), ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black),  ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white),  ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white), ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white), ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white), ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white),  ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white). ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white),  ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black).
 
-📍 Toronto, ON | 🌐 Working with Azure, SQL, Power BI, and Cloud Data Pipelines  
+
+
+
+📍 Toronto, ON   
 📧 saikrishnatejakatari@gmail.com | 📞 647-947-9361
 
 ---
@@ -31,9 +34,7 @@ I specialize in:
 `Power BI` • `SSIS` • `SSAS` • `SSRS` • `Azure Data Factory`  
 `Azure Synapse` • `Azure Data Lake` • `Azure Databricks` • `Azure Purview`
 
-**Other Skills:**  
-Data Modeling • OLAP/OLTP • Data Warehousing • Data Quality  
-Performance Tuning • Dashboarding • Cloud Migration
+
 
 ---
 
@@ -76,9 +77,8 @@ Performance Tuning • Dashboarding • Cloud Migration
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)  
-- 📧 tejakrishna1622@gmail.com  
-- 🌍 [Portfolio (Coming Soon)](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikrishnakatari)  
+
 
 ---
 
