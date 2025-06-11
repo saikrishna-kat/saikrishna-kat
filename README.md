@@ -77,7 +77,7 @@ I specialize in:
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saikrishnakatari)  
+- 💼 [LinkedIn](www.linkedin.com/in/saikrishnakatari)  
 
 
 ---
